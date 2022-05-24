@@ -1,2 +1,7 @@
-Sebastian Rojas Salazar - A01637557
-Actividad integradora TC2008B.2
+Sebastian Rojas Salazar - 
+This project is a simulation of a traffic intersection by creating a multi agent system with python. It was made by using the AgentPy library.
+The front end of the simulation was made in the Unity Engine.
+In the unity project the cars move by requesting the positions of the agentsto a local server which gets the data from the python simulation.
+I focused on the logic and behaviour of the front end part of the simulation. These includes the c# scripts and the unity project setup and configuration. 
+Languages used: C# and Python.
+Technologies: AgentPy, Unity Engine.

@@ -18,3 +18,7 @@ Technologies Used
 
 ### Libraries
 - Agent Py
+
+How to run
+---------------
+In order to run the simulation you need to open the unity package, open the unity scene with the simulation, start the python server and then run the jupyter notebook and subsequently run the scene. 

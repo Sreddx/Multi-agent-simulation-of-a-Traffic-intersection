@@ -1,4 +1,4 @@
-# Multi-agent system of a Traffic intersection simulation
+# Multi-agent simulation of a Traffic intersection 
 This mobile application was created in order to help the BAMX(Food bank of Mexico) increase the amount of donations that people made by creating a feed with the banks achieviements as well as relevant information of goals, places people could directly donate food as well as google maps and paypal integrations. 
 
 ### My contribution - Front end dev: Sebastian Rojas Salazar 
